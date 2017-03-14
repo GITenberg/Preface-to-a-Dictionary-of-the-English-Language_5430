@@ -1,5 +1,8 @@
 _repo: Preface-to-a-Dictionary-of-the-English-Language_5430
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Samuel
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/297
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5430#Preface-to-a-Dictionary-of-the-English-Language
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
