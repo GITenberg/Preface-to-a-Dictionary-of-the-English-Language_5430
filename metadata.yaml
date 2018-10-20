@@ -1,5 +1,5 @@
 _repo: Preface-to-a-Dictionary-of-the-English-Language_5430
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PE'
 - !lcsh 'English language -- Dictionaries'
 - !lcsh 'Lexicology'
+- GITenberg
 title: Preface to a Dictionary of the English Language
 url: http://www.gutenberg.org/ebooks/5430
